@@ -1,2 +1,3 @@
-# hexapuma_diagnostics
-Hexapuma Diagnostics
+# Hexapuma Diagnostics
+
+Alpine image for debugging containers
