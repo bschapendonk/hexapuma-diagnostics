@@ -1,4 +1,4 @@
-# podman build -t hexapuma_diagnostics . && podman run --rm -it hexapuma_diagnostics
+# docker build -t hexapuma_diagnostics . && docker run --rm -it hexapuma_diagnostics
 FROM alpine:latest
 
 RUN <<EOF
